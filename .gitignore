@@ -1,0 +1,140 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+venv.bak/
+env.bak/
+
+# FastAPI & Uvicorn
+*.log
+*.pot
+*.mo
+
+# Poetry
+poetry.lock
+
+# pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm
+.idea/
+*.swp
+*.swo
+*~
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node / Next.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Next.js
+/.next/
+/out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Next.js production build
+.next/
+out/
+
+# Testing
+.nyc_output/
+coverage/
+
+# npm cache
+.npm
+
+# Optional npm cache directory
+.npmrc
+
+# Optional REPL history
+.node_repl_history
+
+# Dependencies
+node_modules
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+.cache/
+tmp/
+temp/
+*.tmp
+
+# Misc
+.turbo/
+.env.example
+
+# Large files
+*.pem
+*.key
