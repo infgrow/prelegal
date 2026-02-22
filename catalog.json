@@ -1,0 +1,70 @@
+{
+  "templates": [
+    {
+      "name": "Mutual Non-Disclosure Agreement",
+      "description": "Standard mutual NDA for protecting confidential information during business discussions and evaluations",
+      "filename": "templates/Mutual-NDA.md"
+    },
+    {
+      "name": "Mutual NDA Cover Page",
+      "description": "Cover page template for completing a Mutual Non-Disclosure Agreement with party details and terms",
+      "filename": "templates/Mutual-NDA-coverpage.md"
+    },
+    {
+      "name": "Cloud Service Agreement",
+      "description": "Framework agreement for cloud service delivery including SaaS, access rights, support, and payment terms",
+      "filename": "templates/CSA.md"
+    },
+    {
+      "name": "Service Level Agreement",
+      "description": "SLA defining uptime commitments, response times, and service credits for cloud services",
+      "filename": "templates/sla.md"
+    },
+    {
+      "name": "Design Partner Agreement",
+      "description": "Agreement for early product access, feedback provision, and product improvement partnerships",
+      "filename": "templates/design-partner-agreement.md"
+    },
+    {
+      "name": "Professional Services Agreement",
+      "description": "Framework agreement for outsourced professional services including SOWs, deliverables, and IP rights",
+      "filename": "templates/psa.md"
+    },
+    {
+      "name": "Data Processing Agreement",
+      "description": "DPA for GDPR and data protection compliance covering data processing, transfers, and subject rights",
+      "filename": "templates/DPA.md"
+    },
+    {
+      "name": "Partnership Agreement",
+      "description": "Flexible partnership agreement covering cooperation, payments, trademark licensing, and dispute resolution",
+      "filename": "templates/Partnership-Agreement.md"
+    },
+    {
+      "name": "Software License Agreement",
+      "description": "License agreement for software distribution including restrictions, updates, warranties, and termination",
+      "filename": "templates/Software-License-Agreement.md"
+    },
+    {
+      "name": "Pilot Agreement",
+      "description": "Short-term pilot program agreement for testing products with evaluation-only access and limited warranties",
+      "filename": "templates/Pilot-Agreement.md"
+    },
+    {
+      "name": "Business Associate Agreement",
+      "description": "HIPAA Business Associate Agreement for handling Protected Health Information (PHI)",
+      "filename": "templates/BAA.md"
+    },
+    {
+      "name": "AI Addendum",
+      "description": "Addendum for AI/ML services covering model training, data usage, IP ownership, and AI limitations",
+      "filename": "templates/AI-Addendum.md"
+    }
+  ],
+  "metadata": {
+    "source": "Common Paper (https://commonpaper.com/)",
+    "license": "CC BY 4.0",
+    "total_templates": 12,
+    "last_updated": "2026-02-22"
+  }
+}
